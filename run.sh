@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/mnt/nfs/homes/bbordere/Desktop/Tetris/lib/SFML_LINUX/lib && make all
